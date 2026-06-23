@@ -17,6 +17,16 @@ function addvalue(){
   // console.log("value added ", counter)
 }
 
+
+//interview question
+// function addvalue(){
+//   setcounter(prevcounter => prevcounter+1)
+//   setcounter(prevcounter => prevcounter+1)
+//   setcounter(prevcounter => prevcounter+1)
+//   setcounter(prevcounter => prevcounter+1)
+
+// }
+
 function removeValue(){
   if(counter === 0){
     setcounter(0)
