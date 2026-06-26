@@ -1,16 +1,75 @@
-# React + Vite
+# Counter App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple Counter App built using **React** that demonstrates state management with hooks. Users can increment, decrement, and reset the counter through an intuitive interface.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- ➕ Increment the counter
+- ➖ Decrement the counter
+- 🔄 Reset the counter
+- ⚡ Instant UI updates using React state
+- 📱 Responsive and clean interface
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- JavaScript (ES6+)
+- CSS / Tailwind CSS _(update according to your project)_
 
-## Expanding the ESLint configuration
+## 📸 Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Demo
+
+![Counter App Demo](./demo.gif)
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone <repository-url>
+```
+
+Navigate to the project folder:
+
+```bash
+cd counter-app
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+## 🎯 Learning Outcomes
+
+This project demonstrates:
+
+- React Components
+- JSX
+- `useState` Hook
+- Event Handling
+- State Updates
+- Conditional Rendering (if used)
+- Component Re-rendering
+
+## 📌 Future Improvements
+
+- Counter history
+- Custom increment/decrement value
+- Dark mode
+- Local Storage support
+- Keyboard shortcuts
+
+## 👨‍💻 Author
+
+**Your Name**
+
+GitHub: https://github.com/your-username
