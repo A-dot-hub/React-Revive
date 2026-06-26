@@ -38,7 +38,7 @@ function removeValue(){
 
   return (
     <>
-      <h1>Chis or codes</h1>
+      <h1>Counter App</h1>
       <h2>Counter vlaue:{counter}</h2>
       <button
       onClick={addvalue}
