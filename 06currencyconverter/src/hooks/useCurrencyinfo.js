@@ -10,6 +10,7 @@ function useCurrencyInfo(currency) {
       .then((res) => setData(res.rates || {}))
       .catch(() => setData({}));
   }, [currency]);
+
   return data;
 }
 

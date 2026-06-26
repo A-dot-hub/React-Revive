@@ -36,6 +36,7 @@ function App() {
     setTo(from)
     setConvertedAmount(amount)
     setAmount(convertedAmount)
+    
   }
 
   useEffect(() => {
