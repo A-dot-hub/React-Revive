@@ -6,7 +6,6 @@ A simple Counter App built using **React** that demonstrates state management wi
 
 - ➕ Increment the counter
 - ➖ Decrement the counter
-- 🔄 Reset the counter
 - ⚡ Instant UI updates using React state
 - 📱 Responsive and clean interface
 
@@ -15,8 +14,6 @@ A simple Counter App built using **React** that demonstrates state management wi
 - React
 - JavaScript (ES6+)
 - CSS / Tailwind CSS _(update according to your project)_
-
-## 📸 Demo
 
 ## 📸 Demo
 
