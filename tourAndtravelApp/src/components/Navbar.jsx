@@ -10,9 +10,9 @@ export default function Navbar() {
         <h1 className="text-2xl font-bold text-black">TravelExplore</h1>
         
         <div className="hidden md:flex gap-6">
-          <a href="home" className="text-gray-700 hover:text-black font-semibold">Home</a>
-          <a href="packages" className="text-gray-700 hover:text-black font-semibold">Packages</a>
-          <a href="contact" className="text-gray-700 hover:text-black font-semibold">Contact</a>
+          <a href="#" className="text-gray-700 hover:text-black font-semibold">Home</a>
+          <a href="#packages" className="text-gray-700 hover:text-black font-semibold">Packages</a>
+          <a href="#contact" className="text-gray-700 hover:text-black font-semibold">Contact</a>
         </div>
 
         <button className="md:hidden" onClick={() => setIsOpen(!isOpen)}>
